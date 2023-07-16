@@ -3,7 +3,7 @@
 =======
 This is a front-end React application built with JavaScript, CSS, and HTML that allows you to manage your budget by displaying transactions and providing functions to edit, delete, and create new transactions.
 # Getting Started with Create React App
-
+ LINK TO BACKEND --> https://github.com/PaoAracena/Budgeting_app_backend
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
