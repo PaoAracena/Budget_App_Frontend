@@ -10,4 +10,48 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+    text-align: center;
+}
+nav{
+  background-color: #333;
+  overflow: hidden;
+ 
+}
+.New{
+  text-align: center;
+}
+.form{
+  
+  text-align: center;
+ 
+  justify-content: center;
+  
+}
+.Budget {
+  color: #333;
+  font-size: 40px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.total {
+  text-align: center;
+}
+.table{
+  width: 100%;
+}
+.amount {
+  float: right;
+}
+.table{
+  border: 10px;
+  border-color: solid beige;
+  background-color: rgb(165, 185, 196);
+}
+
+.border{
+  border-style: solid;
+  border-width: 20px 5px;
+  background-color: rgb(148, 214, 148);
+  justify-content: space-between;
+  
 }
